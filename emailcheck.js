@@ -65,7 +65,7 @@ if(a[0].value == "" || a[1].value == "" || a[2].value == "" || a[3].value == "")
         
     }
 
-    if(a[3].value == 123456789  )
+    if(a[3].value == 1  )
     {
         console.log(a[3].value);
         d++;
